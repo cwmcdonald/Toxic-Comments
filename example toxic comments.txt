@@ -1,0 +1,17 @@
+"id","comment_text","toxic","severe_toxic","obscene","threat","insult","identity_hate"
+
+"0007e25b2121310b","Bye! Don't look, come or think of comming back! Tosser.",1,0,0,0,0,0
+
+"002264ea4d5f2887","Why can't you believe how fat Artie is? Did you see him on his recent appearence on the Tonight Show with Jay Leno? He looks absolutely AWFUL! If I had to put money on it, I'd say that Artie Lange is a can't miss candidate for the 2007 Dead pool!
+Kindly keep your malicious fingers off of my above comment, . Everytime you remove it, I will repost it!!!",1,0,0,0,0,0
+
+"003217c3eb469ba9","Hi! I am back again!
+Last warning!
+Stop undoing my edits or die!",1,0,0,1,0,0
+
+"0036621e4c7e10b5","Would you both shut up, you don't run wikipedia, especially a stupid kid.",1,0,0,0,1,0
+
+"00637960a7ec3436","""
+UNBLOCK ME OR I'LL GET MY LAWYERS ON TO YOU FOR BLOCKING MY CONSTITUTIONAL RIGHT TO FREE SPEECH""",1,0,0,0,0,0
+
+"006b94add72ed61c","I think that your a Fagget get a oife and burn in Hell I hate you 'm sorry we cant have any more sex i'm running out of conndoms",1,0,1,1,1,1
